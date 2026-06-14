@@ -29,3 +29,9 @@ Great PaaS design, giving convenience and speed.
 - Reviewed logs and metrics in CloudWatch to debug and monitor the function
 
 ![AWS Deployment](04-saasAWSDocker/images/AWS-1.jpg)
+
+![AWS Deployment](04-saasAWSDocker/images/AWS-2.jpg)
+
+![AWS Deployment](04-saasAWSDocker/images/AWSPortal-3.jpg)
+
+![AWS Deployment](04-saasAWSDocker/images/AWSPortal-4.jpg)
