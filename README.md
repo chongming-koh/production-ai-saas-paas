@@ -27,3 +27,5 @@ Great PaaS design, giving convenience and speed.
 - Created an AWS Lambda function from the container image, using the Lambda Web Adapter to run FastAPI unmodified
 - Configured the Lambda Function URL with `RESPONSE_STREAM` invoke mode for SSE streaming
 - Reviewed logs and metrics in CloudWatch to debug and monitor the function
+
+![Alt text](path/to/04-saasAWSDocker/images/AWS-1.jpg)
