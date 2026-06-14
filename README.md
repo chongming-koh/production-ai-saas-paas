@@ -34,4 +34,4 @@ Great PaaS design, giving convenience and speed.
 
 ![AWS Deployment](04-saasAWSDocker/images/AWSPortal-3.jpg)
 
-![AWS Deployment](04-saasAWSDocker/images/AWSPortal-4.jpg)
+![AWS Deployment](04-saasAWSDocker/images/AWSECRImage-4.jpg)
