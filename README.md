@@ -28,4 +28,4 @@ Great PaaS design, giving convenience and speed.
 - Configured the Lambda Function URL with `RESPONSE_STREAM` invoke mode for SSE streaming
 - Reviewed logs and metrics in CloudWatch to debug and monitor the function
 
-![Alt text](path/to/04-saasAWSDocker/images/AWS-1.jpg)
+![AWS Deployment](04-saasAWSDocker/images/AWS-1.jpg)
