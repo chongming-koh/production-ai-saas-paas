@@ -1,11 +1,11 @@
-#Tech Stack
+#Tech Stack#
 Frontend: Next.js (Pages Router), TypeScript, Tailwind CSS
 Backend: FastAPI (Python), Pydantic, Uvicorn
 AI: OpenAI API (GPT-5 nano), streaming responses
 Auth & Billing: Clerk (authentication, social login, subscriptions)
 Deployment: Vercel (PaaS) and AWS with Docker containers (IaaS)
 
-#Vercel
+#Vercel#
 Zero-config setup: Auto-detects Next.js frontend and FastAPI backend (via requirements.txt and /api folder)
 Fast deployment: vercel . or vercel --prod deploys a full-stack app
 Built-in environments: Automatically separates preview and production, first deploy goes to production, later ones to preview by default
@@ -15,7 +15,7 @@ No infrastructure to manage: No Docker, IAM, load balancers, or container regist
 
 Great PaaS desgin giving convenience and speed
 
-#Deployment to AWS 
+#Deployment to AWS #
 
 IAM user/group with least-privilege policies
 Set up three tiered budget alerts to monitor spending
