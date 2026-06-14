@@ -6,7 +6,7 @@
 - **Auth & Billing:** Clerk (authentication, social login, subscriptions)
 - **Deployment:** Vercel (PaaS) and AWS with Docker containers (IaaS)
 
-## Vercel
+## Deploy to Vercel
 
 - **Zero-config setup:** Auto-detects Next.js frontend and FastAPI backend (via `requirements.txt` and `/api` folder)
 - **Fast deployment:** `vercel .` or `vercel --prod` deploys a full-stack app
@@ -17,7 +17,7 @@
 
 Great PaaS design, giving convenience and speed.
 
-## Deployment to AWS
+## Deploy to AWS
 
 - IAM user/group with least-privilege policies
 - Set up three tiered budget alerts to monitor spending
