@@ -1,0 +1,21 @@
+{
+    "full_name": "Koh Chong Ming",
+    "name": "Chongming",
+    "current_role": "Programmer",
+    "location": "singapore",
+    "email": "chongming.email@example.com",
+    "linkedin": "linkedin.com/in/chongmingkoh",
+    "specialties": [
+      "Corporate Treasury",
+      "Payments and Receivables",
+      "Coding"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Bachelor in Information Technology",
+        "institution": "University of Wollongong",
+        "year": "2008"
+      }
+    ]
+  }

@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "your name?"
+  },
+  {
+    "role": "assistant",
+    "content": "I go by Guy. If you’d like the full name, it’s on my CV — but most people just call me Guy."
+  },
+  {
+    "role": "user",
+    "content": "my name is chongming"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Chongming. Welcome to the site.\n\nIf you ever prefer to switch to Mandarin, just let me know — happy to chat in either language. What brings you here today?"
+  },
+  {
+    "role": "user",
+    "content": "i like coding"
+  },
+  {
+    "role": "assistant",
+    "content": "Ah, coding — a classic."
+  },
+  {
+    "role": "user",
+    "content": "what is my name and what do i like?"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Chongming, and you told me you like coding. \n\nAm I remembering correctly?"
+  }
+]

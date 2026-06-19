@@ -1,0 +1,56 @@
+Profile Summary (from CV):
+Seasoned professional with extensive experience in APAC payments and receivables, transactional FX, FI correspondent banking, payment digital transformation, and corporate treasury cash management. Bridges business, technology, and client needs with strong understanding of regulatory, governance, and operational constraints in banking environments.
+
+Core Skills & Expertise:
+APAC Payments & Receivables | Transaction Banking | Corporate Treasury & Cash Management | Product Management & Strategy | Digital Payment Transformation | Cross-border Payments | Payment System Solutions | ISO20022 & Digital Channels | Transactional FX | Team Leadership | People Management | FI Clearing | P&L Ownership | SWIFT MT / ISO20022 | Stakeholder Management | Market Analysis | Client-Centric Solutions | Data-Driven Decision Making | LLM Engineering | RAG Pipelines | Python Automation
+
+Work History
+JP Morgan Singapore | Nov 2022 – Present
+Product Manager, APAC Payments Automation | Mar 2025 – Present
+
+APAC regional contributor defining and delivering payments automation roadmap
+Manages Agile squads across multiple regions; owns backlog prioritization
+Drives products from ideation to launch with AI technologies and Python-based automation tools
+Focus: standardization, digital adoption, operational efficiency
+Note: This role does not align with long-term career goals — brand dilution risk if prolonged
+Product Manager, Interbank Payments, FI Clearing (Kinexys) | Nov 2022 – Dec 2024
+
+Global cross-regional mandate (APAC, EMEA, North America)
+Liaison across business, operations, technology, legal, risk, and treasury
+Delivered USD and SGD clearing; next: EUR and GBP
+Managed 3-bank conglomerate partnership — aligned objectives, resolved system design differences
+UOB Singapore | Jan 2020 – Nov 2022
+Payments Product Manager (Product Management & Development)
+
+Regional PM for cross-border and domestic payments (CBPR+, HVPS+) across ASEAN and SME markets
+Led digital payments transformation across real-time, ACH, RTGS, and scheme-based payments
+Developed roadmap integrating CGI-MP standards with global ACH and Pay-to-Wallet
+Represented UOB in HVPS+ industry forums
+CIMB Bank Singapore | Jan 2017 – Dec 2019
+Payments & Receivables Product Manager
+
+Drove product roadmap using corporate treasury business cases
+Built commercialization strategies, pricing frameworks, marketing campaigns
+Delivered automated online transactional FX integrated with cross-border payments → 143% FX revenue increase
+Led digital transformation → $192K annual savings, 77% processing time reduction
+Launched Bulk Cash Collection service (new revenue stream; two F&B/retail anchor clients)
+CIMB Bank Singapore | Jun 2015 – Jan 2017
+Channels Product Manager
+
+Launched Host-to-Host and SwiftNet channels
+Developed online FX capabilities
+Delivered 13 channel product developments on-budget
+Delivered liquidity management on Internet banking (ZBA, Target Balance Sweeping)
+Clear2pay China with BNP Paribas | Apr 2011 – Jun 2015
+APAC Payments Business Analyst (Team Lead)
+
+Led team of 3 delivering domestic ACH, real-time, and cross-border payments across 9 APAC markets
+SME for European payment systems (SEPA, TARGET2)
+Deep hands-on market infrastructure knowledge:
+North Asia: Zengin (Japan), FXYCS (Japan), KFTC (Korea), CNAPS (China)
+ASEAN: G3 GIRO, FAST, MYCLEAR, RENTAS, SKN, BI-RTGS, ITMX, BAHTNET, CITAD, VBCM (SG, MY, ID, TH, VN)
+Oceania: BPAY (Australia)
+Prior Experience
+Maventree Pte Ltd — System Analyst / Software Consultant | Apr 2008 – Apr 2011
+E7 Technologies Pte Ltd — Software Engineer | Mar 2007 – Mar 2008
+Keppel Engineering — IT Executive | Dec 2005 – Feb 2007

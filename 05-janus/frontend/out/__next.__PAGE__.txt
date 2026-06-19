@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[96872,["/_next/static/chunks/158myu8e_yme3.js","/_next/static/chunks/2a63ndfe2gytv.js"],"default"]
+3:I[97367,["/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-gradient-to-br from-slate-50 to-gray-100","children":["$","div",null,{"className":"container mx-auto px-4 py-8","children":["$","div",null,{"className":"max-w-4xl mx-auto","children":[["$","h1",null,{"className":"text-4xl font-bold text-center text-gray-800 mb-2","children":"AI in Production"}],["$","p",null,{"className":"text-center text-gray-600 mb-8","children":"Deploy Janus to the cloud"}],["$","div",null,{"className":"h-[80vh]","children":["$","$L2",null,{}]}],["$","footer",null,{"className":"mt-8 text-center text-sm text-gray-500","children":["$","p",null,{"children":"Week 2: Building Janus, my alternate"}]}]]}]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/2a63ndfe2gytv.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"whnGv4_wJwF_a7SHW_Yir"}
+5:null
