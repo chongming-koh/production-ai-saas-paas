@@ -6,6 +6,7 @@
 - **Auth & Billing:** Clerk (authentication, social login, subscriptions)
 - **Deployment:** Vercel (PaaS) and AWS with Docker containers (IaaS)
 
+
 ## Deploy to Vercel
 
 - **Zero-config setup:** Auto-detects Next.js frontend and FastAPI backend (via `requirements.txt` and `/api` folder)
@@ -16,6 +17,7 @@
 - **No infrastructure to manage:** No Docker, IAM, load balancers, or container registries, just code and a CLI command
 
 Great PaaS design, giving convenience and speed.
+
 
 ## Deploy to AWS
 
@@ -36,6 +38,9 @@ Great PaaS design, giving convenience and speed.
 
 ![AWS Deployment](04-saasAWSDocker/images/AWSECRImage-4.jpg)
 
+
 ## Project Overview
 Janus is a conversational AI digital twin — a chatbot that represents me to recruiters and hiring managers, answering questions about my background, experience, and interests (the next evolution of the resume). It's a full-stack application deployed to AWS: a FastAPI backend running serverless on AWS Lambda behind Amazon API Gateway, with conversation history persisted in Amazon S3, and a Next.js static frontend hosted on S3 and delivered globally through Amazon CloudFront. The AI responses are generated via Amazon Bedrock. This project is part of my hands-on platform engineering journey, and the README also documents the architecture, key concepts, and real problems I debugged along the way
 ![Lambda Deployment](05-janus/Screenshot/1-ChatRunning.jpg)
+![Lambda Deployment](05-janus/Screenshot/2-LambdaConfig.jpg)
+![Lambda Deployment](05-janus/Screenshot/3-APIGateway-Route.jpg)
